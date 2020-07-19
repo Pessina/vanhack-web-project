@@ -4,9 +4,10 @@
 Javascript/CSS/HTML project of VanHack. In This project I should develp a web site to manage VanHack events.
 
 ## Screenshots
-![enter image description here](https://i.imgur.com/lVFDh66.png =700x500)  
-![enter image description here](https://i.imgur.com/dIre08K.png =700x500)
-![enter image description here](https://i.imgur.com/AJqPIoi.png =700x500)
+<img src="https://i.imgur.com/lVFDh66.png" title="FVCproductions" alt="FVCproductions" width=700 height>  
+<img src="https://i.imgur.com/dIre08K.png" title="FVCproductions" alt="FVCproductions" width=700 height>  
+<img src="https://i.imgur.com/AJqPIoi.png" title="FVCproductions" alt="FVCproductions" width=700 height>  
+
 ## Installation
  1. Clone the repository
  2. Inside the root folder run `npm install`
